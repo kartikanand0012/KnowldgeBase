@@ -11,5 +11,6 @@ Auto-published by Tobi from my learning platform. Learning content only.
 | AI & ML | 0 | 39 | Linear Algebra |
 | Research Papers | 0 | 10 | Deep Residual Learning (ResNet) |
 | Reading | 0 | 12 | The 48 Laws of Power |
+| Whiteboard & Interview | 0 | 7 | The UMPIRE framework |
 
 Badges: First Blood, Double Digits
