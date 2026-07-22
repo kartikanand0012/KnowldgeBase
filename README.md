@@ -2,7 +2,7 @@
 
 Auto-published by Tobi from my learning platform. Learning content only.
 
-**Level 2** · 370 XP · streak 1d · badges 2/16
+**Level 2** · 360 XP · streak 0d · badges 2/16
 
 | Track | Done | Total | Next |
 |---|---|---|---|
@@ -11,6 +11,5 @@ Auto-published by Tobi from my learning platform. Learning content only.
 | AI & ML | 0 | 39 | Linear Algebra |
 | Research Papers | 0 | 10 | Deep Residual Learning (ResNet) |
 | Reading | 0 | 12 | The 48 Laws of Power |
-| Whiteboard & Interview | 0 | 7 | The UMPIRE framework |
 
 Badges: First Blood, Double Digits
