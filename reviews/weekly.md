@@ -1,12 +1,5 @@
 # Weekly reviews
 
-## 2026-07-26
-
-Kartik, this is your first week on record, so there's no delta to celebrate — only a baseline to beat. You hit the Solve Problems quest (5/5), which is a real completion, but Focus Sessions (0/5), Clear Reviews (0/10), and Build Artifacts (1/2) all missed, and your streak sits at zero. Three binary-search reviews are overdue since July 13 — that's compounding debt that will hurt retention on a pattern you've already invested in. Your weakest patterns by mastery are Graphs (7), Two Pointers (17), and 1-D DP (17), and with only 1–2 solves each, these aren't built yet — they're just touched. No study minutes logged means the 5 solves happened without structured review, which is how you solve without retaining. Next week the single lever to pull is reviews: clear those 10 overdue cards before you touch anything new.
-Wins: Completed Solve Problems quest 5/5 — first quest finished on the board; Saved an artifact and ran code 4 times — showed up and built, not just read; Earned 2 badges in week one with zero prior history
-
-**Focus:** Clear all 10 overdue reviews by Wednesday; do 3 binary-search cards today
-
 ## 2026-07-20
 
 Week of 2026-07-14: 0 learning events (0 solves, 0 reviews, 0 sessions, 0 min). Level 2, streak 0d.
