@@ -1,5 +1,11 @@
 # Weekly reviews
 
+## 2026-08-02
+
+Week of 2026-07-27: 0 learning events (0 solves, 0 reviews, 0 sessions, 0 min). Level 2, streak 0d.
+
+**Focus:** Two Pointers
+
 ## 2026-07-20
 
 Week of 2026-07-14: 0 learning events (0 solves, 0 reviews, 0 sessions, 0 min). Level 2, streak 0d.
