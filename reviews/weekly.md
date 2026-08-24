@@ -1,5 +1,11 @@
 # Weekly reviews
 
+## 2026-08-23
+
+Kartik, this was a zero week — no study minutes, no drills, no quests touched, streak at 0. There's nothing to spin positively here: every target hit 0/target and three binary-search reviews are now 35+ days overdue. The weak patterns (Graphs at mastery 7, Two Pointers and DP-1D both at 17) are stagnating, not improving, because no reps are going in. You're at Level 2 with 360 XP and that number will sit frozen unless you show up. One week of zero is recoverable; two in a row starts compounding debt that takes months to unwind. Pick up the reviews Monday morning — that's the only move that matters right now.
+
+**Focus:** Clear all 3 overdue binary-search reviews Monday, then solve Valid Palindrome same day.
+
 ## 2026-08-02
 
 Week of 2026-07-27: 0 learning events (0 solves, 0 reviews, 0 sessions, 0 min). Level 2, streak 0d.
