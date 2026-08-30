@@ -1,5 +1,11 @@
 # Weekly reviews
 
+## 2026-08-30
+
+Kartik, this was a zero week — no study minutes, no drills, no quests touched, streak at 0. There's nothing to soften here: every metric is flatlined and three binary search reviews are now 6+ weeks overdue, meaning that retention is actively decaying. Your weakest patterns (Graphs at 7 mastery, Two Pointers and DP-1D both at 17) are stalling because they're getting no reps. One blank week is a choice you can recover from; two in a row starts compounding into real skill regression. The path back is simple but non-negotiable: show up Monday, clear those three overdue reviews in under 30 minutes, then do one Two Pointers problem.
+
+**Focus:** Monday: clear 3 overdue binary-search reviews, then solve Valid Palindrome — 45 min total.
+
 ## 2026-08-23
 
 Kartik, this was a zero week — no study minutes, no drills, no quests touched, streak at 0. There's nothing to spin positively here: every target hit 0/target and three binary-search reviews are now 35+ days overdue. The weak patterns (Graphs at mastery 7, Two Pointers and DP-1D both at 17) are stagnating, not improving, because no reps are going in. You're at Level 2 with 360 XP and that number will sit frozen unless you show up. One week of zero is recoverable; two in a row starts compounding debt that takes months to unwind. Pick up the reviews Monday morning — that's the only move that matters right now.
