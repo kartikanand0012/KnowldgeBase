@@ -1,5 +1,11 @@
 # Weekly reviews
 
+## 2026-09-14
+
+Kartik, this was a zero week — 0 study minutes, 0 quests touched, 0-day streak, and no drills run. There are no wins to anchor to numbers because there are no numbers. Your three binary-search reviews are now nearly two months overdue (due 2026-07-13), and Two Pointers sits at mastery 17 with only 1 problem solved — it will decay if you don't act this week. The gap between where you are (Level 2, 360 XP, streak dead) and Google-level SWE doesn't close with zero weeks; it widens. One blank week is recoverable — two in a row starts to become a pattern. Pick a single 25-minute block tomorrow morning, clear those three binary-search reviews, then solve Valid Palindrome; that's the minimum to stop the bleeding.
+
+**Focus:** Clear 3 overdue binary-search reviews + solve Valid Palindrome by Monday night.
+
 ## 2026-09-06
 
 Kartik, this week was a complete zero — 0 study minutes, 0 quests touched, 0-day streak, and three binary search reviews that are now 49 days overdue. There's nothing to spin here: the system is waiting for you and you didn't show up. Your weakest patterns — Graphs (mastery 7), Two Pointers (mastery 17), and DP-1D (mastery 17) — are all stagnant because you're not drilling them. The overdue reviews compound every day you skip them; spaced repetition only works if you actually space and repeat. One session this week beats another week of silence. Pick up the streak at zero and make Sunday count.
